@@ -49,7 +49,7 @@ range(17,20); // returns [17, 18, 19, 20]
 ```
 
 
-- ### Triple Step
+- ### Triple Step 
 
 A child is running up a staircase with n steps and can hop either 1 step 2 steps or 3 steps at a time. Write a function called 'tripleStep', that takes in an argument `n` that represents the number of steps in the staircase, and returns a count of how many possible ways the child can run up the stairs.
 
